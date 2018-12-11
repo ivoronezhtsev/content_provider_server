@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContentProviderLesson</string>
+    <string name="note_added">Новая заметка вставлена</string>
+    <string name="notes_list">Запрошен список заметок</string>
+    <string name="note_get">Запрошена заметка по ключу</string>
+    <string name="update_note">Заметка обновлена</string>
+    <string name="app_title">Хранилище заметок</string>
+    <string name="notify_change_error">Не удалось определить операцию</string>
+    <string name="create_success">Хранилище данных проинициализировано</string>
+    <string name="create_fail">Не удалось проинициализировать хранилище данных</string>
+    <string name="unknown_uri">Не известное событие</string>
+</resources>
